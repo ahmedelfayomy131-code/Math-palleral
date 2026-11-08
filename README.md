@@ -1,2 +1,2 @@
-# Math-palleral
+#Math-palleral
 Triangle
